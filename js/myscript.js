@@ -30,4 +30,9 @@ let parolaReversed = parolaUnita;
 console.log(parolaReversed)
 
 // Creare una funzione che distingua la parola se è palindroma
+if (parola == parolaReversed)  {
+  alert('La parola e Palidroma')
+} else {
+  alert('La parola non e Palidroma')
+}
 
